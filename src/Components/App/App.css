@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+* {
+  font-family: 'Inter', sans-serif;
+}
+
+
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  
+}
+
+ul {
+  padding-left: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.myContain {
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+.containerNarrow {
+  max-width: 768px;
+  margin: 0 auto;
+}
+
+.navLink {
+  text-decoration: none;
+  color: white;
+}
+
+.logoLink {
+  text-decoration: none;
+  color: white;
+  border-right: 1px solid #e4444d;
+}
+.MuiIconButton-root	{
+  padding: 0 10px 0 0;
+}
